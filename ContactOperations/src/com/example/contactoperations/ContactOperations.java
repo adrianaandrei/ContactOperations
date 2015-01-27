@@ -141,6 +141,9 @@ public class ContactOperations {
 
 		} catch (Exception e) {
 			System.out.println(e.getStackTrace());
+			System.out.println(e.getStackTrace());
+			System.out.println(e.getStackTrace());
+			System.out.println(e.getStackTrace());
 		}
 		return false;
 	}
