@@ -9,6 +9,9 @@ import android.content.Context;
 import android.util.Log;
 import android.webkit.JavascriptInterface;
 
+/**
+Added some commnets for tests
+**/
 public class ArrayApplication extends Application {
 
 	static final String TAG = "ArrayApplication";
